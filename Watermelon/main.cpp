@@ -25,7 +25,7 @@ int main()
         //If the weight is even and not two then (Yes)
         else
         {
-            printf("Yes \n");
+            printf("Yes\n");
             fflush(stdout);
         }
     }
